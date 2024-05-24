@@ -1,0 +1,72 @@
+{
+  "projects": [
+    {
+      "id": "6dbc",
+      "name": "LandPage MB Transportadora",
+      "budget": "800",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento web"
+      },
+      "cost": 187,
+      "services": [
+        {
+          "name": "534",
+          "cost": "65",
+          "description": "346",
+          "id": "0f3de1b1-6a9e-438e-bc20-391ca2a881b5"
+        },
+        {
+          "name": "teste1",
+          "cost": "122",
+          "description": "3456",
+          "id": "00161c0b-3564-4482-9520-29a99fd44be3"
+        }
+      ]
+    },
+    {
+      "id": "c852",
+      "name": "teste1",
+      "budget": "12345",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "3a78",
+      "name": "teste2",
+      "budget": "123456",
+      "category": {
+        "id": "4",
+        "name": "Backend"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento web"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Backend"
+    },
+    {
+      "id": "5",
+      "name": "Landpage"
+    }
+  ]
+}
